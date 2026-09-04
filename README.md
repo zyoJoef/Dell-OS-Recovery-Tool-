@@ -1,4 +1,4 @@
-# Dell-OS-Recovery-Tool-
+# Dell OS Recovery Tool
 
 <figure>
   <img src="https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/esupport/esupport-pages/dell-os-recovery-tool-same-system-detected.png" alt="Dell OS Recovery Tool" style="width:100%">
